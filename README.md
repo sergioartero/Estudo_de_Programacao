@@ -1,2 +1,2 @@
-# Estudo_de_Programacao
+# Estudo de Programação
 Repositório destinado a Estudo de Programação
